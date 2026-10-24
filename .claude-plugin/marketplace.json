@@ -1,0 +1,11 @@
+{
+  "name": "iamme",
+  "owner": { "name": "iamme" },
+  "plugins": [
+    {
+      "name": "iamme",
+      "source": "./",
+      "description": "Teaches your coding agent to integrate iamme verified identity: hosted connect, attestations and signed receipts."
+    }
+  ]
+}

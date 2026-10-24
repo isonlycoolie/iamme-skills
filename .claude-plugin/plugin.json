@@ -1,0 +1,5 @@
+{
+  "name": "iamme",
+  "description": "Teaches your coding agent to integrate iamme verified identity: hosted connect, attestations and signed receipts.",
+  "version": "0.1.0"
+}
