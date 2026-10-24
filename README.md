@@ -33,3 +33,7 @@ Ask your agent, for example: "Add Connect with iamme to sign-up". It will need, 
 
 - `skills/iamme/SKILL.md`: when to use it, the five-step integration and the rules.
 - `skills/iamme/references/`: connect (with a Node example), data, receipts and errors.
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE). The iamme name and marks are not licensed.
